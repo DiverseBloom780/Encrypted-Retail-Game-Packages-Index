@@ -32,43 +32,44 @@
 
 ---
 
-## 📦 DLC Expansion 1
+## 🗡️ DLC Expansion 1 — *Legacy of the First Blade*
 
-| DLC | File Size (bytes) | Direct Link |
-|-----|-------------------|-------------|
-| Expansion 1C01 | 2,711,093,248 | [DLCEXPANSION1C01.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION1C01.pkg) |
-| Expansion 1C02 | 999,096,320 | [DLCEXPANSION1C02.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION1C02.pkg) |
-| Expansion 1C03 | 1,118,633,984 | [DLCEXPANSION1C03.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION1C03.pkg) |
-
----
-
-## 📦 DLC Expansion 2
-
-| DLC | Part | File Size (bytes) | Direct Link |
-|-----|------|-------------------|-------------|
-| Expansion 2C01 | 0 | 4,294,967,296 | [DLCEXPANSION2C01_0.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C01_0.pkg) |
-| Expansion 2C01 | 1 | 2,999,844,864 | [DLCEXPANSION2C01_1.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C01_1.pkg) |
-| Expansion 2C02 | 0 | 4,294,967,296 | [DLCEXPANSION2C02_0.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C02_0.pkg) |
-| Expansion 2C02 | 1 | 1,862,336,512 | [DLCEXPANSION2C02_1.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C02_1.pkg) |
-| Expansion 2C03 | 0 | 4,294,967,296 | [DLCEXPANSION2C03_0.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C03_0.pkg) |
-| Expansion 2C03 | 1 | 4,294,967,296 | [DLCEXPANSION2C03_1.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C03_1.pkg) |
-| Expansion 2C03 | 2 | 2,178,023,424 | [DLCEXPANSION2C03_2.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C03_2.pkg) |
+| Episode | File Size (bytes) | Direct Link |
+|---------|-------------------|-------------|
+| Hunted (Episode 1) | 2,711,093,248 | [DLCEXPANSION1C01.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION1C01.pkg) |
+| Shadow Heritage (Episode 2) | 999,096,320 | [DLCEXPANSION1C02.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION1C02.pkg) |
+| Bloodline (Episode 3) | 1,118,633,984 | [DLCEXPANSION1C03.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION1C03.pkg) |
 
 ---
 
-## 📦 ULC Packs
+## 🌌 DLC Expansion 2 — *The Fate of Atlantis*
 
-| Pack | File Size (bytes) | Direct Link |
-|------|-------------------|-------------|
-| ULCPACK000000001 | 1,114,112 | [ULCPACK000000001.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCPACK000000001.pkg) |
-| ULCPACK000000003 | 1,114,112 | [ULCPACK000000003.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCPACK000000003.pkg) |
-| ULCPACK000000006 | 1,114,112 | [ULCPACK000000006.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCPACK000000006.pkg) |
-| ULCQUEST00000001 | 1,114,112 | [ULCQUEST00000001.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCQUEST00000001.pkg) |
+| Episode | Part | File Size (bytes) | Direct Link |
+|---------|------|-------------------|-------------|
+| Fields of Elysium (Episode 1) | 0 | 4,294,967,296 | [DLCEXPANSION2C01_0.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C01_0.pkg) |
+| Fields of Elysium (Episode 1) | 1 | 2,999,844,864 | [DLCEXPANSION2C01_1.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C01_1.pkg) |
+| Torment of Hades (Episode 2) | 0 | 4,294,967,296 | [DLCEXPANSION2C02_0.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C02_0.pkg) |
+| Torment of Hades (Episode 2) | 1 | 1,862,336,512 | [DLCEXPANSION2C02_1.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C02_1.pkg) |
+| Judgment of Atlantis (Episode 3) | 0 | 4,294,967,296 | [DLCEXPANSION2C03_0.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C03_0.pkg) |
+| Judgment of Atlantis (Episode 3) | 1 | 4,294,967,296 | [DLCEXPANSION2C03_1.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C03_1.pkg) |
+| Judgment of Atlantis (Episode 3) | 2 | 2,178,023,424 | [DLCEXPANSION2C03_2.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-DLCEXPANSION2C03_2.pkg) |
+
+---
+
+## 🎁 ULC Packs (Bonus Content)
+
+| Pack | Description | File Size (bytes) | Direct Link |
+|------|-------------|-------------------|-------------|
+| ULCPACK000000001 | Bonus cosmetic pack | 1,114,112 | [ULCPACK000000001.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCPACK000000001.pkg) |
+| ULCPACK000000003 | Bonus cosmetic pack | 1,114,112 | [ULCPACK000000003.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCPACK000000003.pkg) |
+| ULCPACK000000006 | Bonus cosmetic pack | 1,114,112 | [ULCPACK000000006.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCPACK000000006.pkg) |
+| ULCQUEST00000001 | Exclusive Quest Pack | 1,114,112 | [ULCQUEST00000001.pkg](http://gs2.ww.prod.dl.playstation.net/.../UP0001-CUSA09311_00-ULCQUEST00000001.pkg) |
 
 ---
 
 ## 📝 Notes
 - All PKGs are listed **once only** — no duplicates.  
+- DLC expansions are named by their **official episode titles**.  
 - Multi‑part DLCs must be concatenated in order.  
 - ULC packs are small unlockables (~1 MB each).  
-- This `.md` file now serves as a **complete manifest** for base game, DLC expansions, and ULC packs.  
+- This `.md` file is now a **complete manifest** for base game, DLC expansions, and ULC packs.  
